@@ -1,0 +1,141 @@
+Vehicle : "{4A71F755A4513227}Prefabs/Vehicles/Wheeled/M998/M1025.et" {
+ ID "BBCBA43A9778AE21"
+ components {
+  SCR_UniversalInventoryStorageComponent "{5916C587FC993363}" {
+   MultiSlots {
+    MultiSlotConfiguration "{6A4E3561D490D01D}" {
+     SlotTemplate InventoryStorageSlot Mags {
+      Prefab "{36F28DB6E12BC1BE}Prefabs/Weapons/Magazines/M7/6_8x51_Hybrid_25_Black.et"
+     }
+     NumSlots 30
+    }
+    MultiSlotConfiguration "{6A4E3560141BCA0B}" {
+     SlotTemplate InventoryStorageSlot UGLHEDP {
+      Prefab "{1663496AE5B9F10B}Prefabs/Weapons/Ammo/Ammo_Grenade_HEDP_M433.et"
+     }
+     NumSlots 20
+    }
+    MultiSlotConfiguration "{6A4E3560AC3BC959}" {
+     SlotTemplate InventoryStorageSlot UGLSmokeRed {
+      Prefab "{BDD18BEEC1165353}Prefabs/Weapons/Ammo/Ammo_Grenade_Smoke_M713_Red.et"
+     }
+     NumSlots 5
+    }
+    MultiSlotConfiguration "{6A4E35608E113F8C}" {
+     SlotTemplate InventoryStorageSlot UGLSmokeGreen {
+      Prefab "{8D0A57DD48B62639}Prefabs/Weapons/Ammo/Ammo_Grenade_Smoke_M715_Green.et"
+     }
+     NumSlots 5
+    }
+    MultiSlotConfiguration "{6A4E35608C5305BA}" {
+     SlotTemplate InventoryStorageSlot UGLSmokeYellow {
+      Prefab "{CA429E5E3BAEC6A4}Prefabs/Weapons/Ammo/Ammo_Grenade_Smoke_M716_Yellow.et"
+     }
+     NumSlots 5
+    }
+    MultiSlotConfiguration "{6A4E3560EC62A3A4}" {
+     SlotTemplate InventoryStorageSlot UGLSmokeWhite {
+      Prefab "{C2DFFFD7928F598F}Prefabs/Weapons/Ammo/Ammo_Grenade_Smoke_M680.et"
+     }
+     NumSlots 5
+    }
+    MultiSlotConfiguration "{6A4E35635409DD46}" {
+     SlotTemplate InventoryStorageSlot LMGBoxes {
+      Prefab "{BFF56AB3B8D57594}Prefabs/Weapons/Magazines/XM250/Box_68x51_XM250_100rnd_Tracer.et"
+     }
+     NumSlots 10
+    }
+    MultiSlotConfiguration "{6A4E3563855786B9}" {
+     SlotTemplate InventoryStorageSlot MMGBoxes {
+      Prefab "{02FEFAC7E2F722E2}Prefabs/Weapons/Magazines/RM338/Box_338N_RM338_100rnd_Tracer.et"
+     }
+     NumSlots 10
+    }
+    MultiSlotConfiguration "{6A4E356391C8E163}" {
+     SlotTemplate InventoryStorageSlot Frags {
+      Prefab "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et"
+     }
+     NumSlots 10
+    }
+    MultiSlotConfiguration "{6A4E3563E8682E09}" {
+     SlotTemplate InventoryStorageSlot SmokeWhite {
+      Prefab "{9DB69176CEF0EE97}Prefabs/Weapons/Grenades/Smoke_ANM8HC.et"
+     }
+     NumSlots 10
+    }
+    MultiSlotConfiguration "{6A4E3563D0941A19}" {
+     SlotTemplate InventoryStorageSlot SmokeGreen {
+      Prefab "{D41D22DD1B8E921E}Prefabs/Weapons/Grenades/M18/Smoke_M18_Green.et"
+     }
+     NumSlots 6
+    }
+    MultiSlotConfiguration "{6A4E3562224AEF0C}" {
+     SlotTemplate InventoryStorageSlot SmokeRed {
+      Prefab "{3343A055A83CB30D}Prefabs/Weapons/Grenades/M18/Smoke_M18_Red.et"
+     }
+     NumSlots 6
+    }
+    MultiSlotConfiguration "{6A4E35623669E377}" {
+     SlotTemplate InventoryStorageSlot SmokeViolet {
+      Prefab "{14C1A0F061D9DDEE}Prefabs/Weapons/Grenades/M18/Smoke_M18_Violet.et"
+     }
+     NumSlots 6
+    }
+    MultiSlotConfiguration "{6A4E35623AC4132B}" {
+     SlotTemplate InventoryStorageSlot SmokeYellow {
+      Prefab "{9BBDEE253A16CC66}Prefabs/Weapons/Grenades/M18/Smoke_M18_Yellow.et"
+     }
+     NumSlots 6
+    }
+    MultiSlotConfiguration "{6A4E35620C03DF49}" {
+     SlotTemplate InventoryStorageSlot LATHEDP {
+      Prefab "{169BF0F0AA06C787}Prefabs/Weapons/Launchers/AT4/Launcher_AT4_HEDP.et"
+     }
+     NumSlots 1
+    }
+    MultiSlotConfiguration "{6A4E356263850CE9}" {
+     SlotTemplate InventoryStorageSlot LATHE {
+      Prefab "{D98BE0413A329708}Prefabs/Weapons/Launchers/AT4/Launcher_AT4_HE.et"
+     }
+     NumSlots 1
+    }
+    MultiSlotConfiguration "{6A4E35627366057A}" {
+     SlotTemplate InventoryStorageSlot HATAT {
+      Prefab "{5B9BCFE7BBB5B55C}Prefabs/Magazine/Magazine_84mm_HEAT551.et"
+     }
+     NumSlots 5
+    }
+    MultiSlotConfiguration "{6A4E356280F651B1}" {
+     SlotTemplate InventoryStorageSlot HATHE {
+      Prefab "{CBC9B8A5BCB628D2}Prefabs/Magazine/Magazine_84mm_HE441.et"
+     }
+     NumSlots 5
+    }
+    MultiSlotConfiguration "{6A4E3562937CD3D1}" {
+     SlotTemplate InventoryStorageSlot HATSmoke {
+      Prefab "{E94565B2298F6846}Prefabs/Magazine/Magazine_84mm_SMOKE469.et"
+     }
+     NumSlots 3
+    }
+    MultiSlotConfiguration "{6A4E3562E144B4C2}" {
+     SlotTemplate InventoryStorageSlot Bandages {
+      Prefab "{A81F501D3EF6F38E}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_US_01.et"
+     }
+     NumSlots 15
+    }
+    MultiSlotConfiguration "{6A4E3562FC00D8B5}" {
+     SlotTemplate InventoryStorageSlot Morphine {
+      Prefab "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et"
+     }
+     NumSlots 10
+    }
+    MultiSlotConfiguration "{6A4E3562CBD9BE79}" {
+     SlotTemplate InventoryStorageSlot Saline {
+      Prefab "{00E36F41CA310E2A}Prefabs/Items/Medicine/SalineBag_01/SalineBag_US_01.et"
+     }
+     NumSlots 5
+    }
+   }
+  }
+ }
+}
