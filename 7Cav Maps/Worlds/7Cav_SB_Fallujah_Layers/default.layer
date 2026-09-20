@@ -1,3 +1,8 @@
+SCR_MapEntity MapEntity1 : "{731564B66F91B107}Prefabs/World/Game/MapEntity.et" {
+ coords 0 158.747 0
+ "Map Geometry Data" "{9A89240A7F5A7825}Worlds/Terrains/Fallujah/7Cav_SB_Fallujah.topo"
+ "Satellite background image" "{575B9C7B427A8CF9}Worlds/Fallujah.edds"
+}
 SCR_AIWorld SCR_AIWorld : "{E0A05C76552E7F58}Prefabs/AI/SCR_AIWorld.et" {
  components {
   NavmeshWorldComponent "{5584F30E67F617AD}" {
@@ -40,14 +45,14 @@ PerceptionManager PerceptionManager : "{028DAEAD63E056BE}Prefabs/World/Game/Perc
  coords 1349.823 5.489 1104.189
 }
 SCR_GameModeEditor _Cav_GameMode_Editor_Sandbox1 : "{285363A3C06DC821}Prefabs/MP/Modes/Editor/7Cav_GameMode_Editor_Sandbox.et" {
- coords 1349.824 5.535 1103.224
+ coords 983.767 8.57 1084.702
  {
   SCR_FactionManager {
    ID "664AEDE1A7CEFB89"
    Factions {
-    SCR_Faction "{6A640A284F5FE996}" : "{EB9932B5C201C6DB}Configs/Factions/MEI.conf" {
+    SCR_Faction "{6A695424BF6D0472}" : "{EB9932B5C201C6DB}Configs/Factions/MEI.conf" {
     }
-    SCR_Faction "{6A640A284E772884}" : "{078966960951BF1E}Configs/Factions/MEC.conf" {
+    SCR_Faction "{6A695424BD97EAED}" : "{078966960951BF1E}Configs/Factions/MEC.conf" {
     }
    }
   }
